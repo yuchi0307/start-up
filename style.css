@@ -1,0 +1,41 @@
+body,
+html {
+	width: 100%;
+	height: 100%;
+	font-family: 'Lora', serif;
+	background: url(https://images.pexels.com/photos/1857157/pexels-photo-1857157.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+
+h1{
+	font-size: 5rem;
+	color: white;
+	opacity: 0.8;
+}
+
+.buffer{
+	height: 10rem;
+}
+
+hr{
+	border-color: white;
+	border-width: 2px;
+	max-width: 65px;
+}
+
+
+.btn{
+	border-radius: 50px;
+	border-width: 2px;
+}
+
+.btn:hover{
+	border-width: 2px;
+	 border-color: pink;
+	 background-color: pink;
+	
+}
